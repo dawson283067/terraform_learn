@@ -1,0 +1,14 @@
+# local .terraform dir
+.terraform/*
+
+# tf state files
+*.tfstate
+*.tfstate.*
+
+# tf variable files
+*.tfvars
+
+# my file
+zhangsan/*
+terraform learning/*
+
